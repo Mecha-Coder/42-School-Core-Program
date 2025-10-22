@@ -1,4 +1,4 @@
-![42-banner](https://github.com/Mecha-Coder/42-School-Core-Program/tree/main/asset/42-banner.png)
+![42-banner](https://github.com/Mecha-Coder/42-School-Core-Program/blob/main/asset/42-banner.png)
 
 I joined 42 Kuala Lumpur — a coding school with a project-based, peer-to-peer learning approach. I completed their Core Program, and now have deeper understanding in computer science. Below are some of the interesting projects I worked on.
 
