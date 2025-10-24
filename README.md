@@ -26,7 +26,7 @@ Click here to view 👉 [**Academic Transcript**](https://github.com/Mecha-Coder
 
 
 ### **Exams**
-- ![Rank-6](https://github.com/Mecha-Coder/42-exam-rank6-miniserv)
-- ![Rank-5](https://github.com/Mecha-Coder/42-exam-rank5-cpp)
-- ![Rank-4](https://github.com/Mecha-Coder/42-exam-rank4-microshell)
-- ![Rank-3](https://github.com/Mecha-Coder/42-exam-rank3-gnl)
+- [Rank-6](https://github.com/Mecha-Coder/42-exam-rank6-miniserv)
+- [Rank-5](https://github.com/Mecha-Coder/42-exam-rank5-cpp)
+- [Rank-4](https://github.com/Mecha-Coder/42-exam-rank4-microshell)
+- [Rank-3](https://github.com/Mecha-Coder/42-exam-rank3-gnl)
