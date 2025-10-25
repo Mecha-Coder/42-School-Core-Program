@@ -9,20 +9,20 @@ I joined 42 Kuala Lumpur — a coding school that focuses on project-based, peer
 Click here to view 👉 [**Academic Transcript**](https://github.com/Mecha-Coder/42-School-Core-Program/blob/main/asset/transcript.pdf)
 
 
-| Project | Description |
-|---------|-------------|
-| [**cub3D**](https://github.com/Mecha-Coder/42-cub3D)             | Pseudo-3D game engine inspired by Wolfenstein 3D |
-| [**so_long**](https://github.com/Mecha-Coder/42-so-long)           | Simple 2D game |
-| [**webserv**](https://github.com/Mecha-Coder/42-webserv)           | Single-thread non-blocking web server inspired by Nginx  |
-| [**CPP_Modules**](https://github.com/Mecha-Coder/42-cpp-modules)       | Introduction to core features of C++ |
-| [**ft-transcendence**](https://github.com/ruisheng95/ft_transcendence)     | Full-stack web app that hosts a multiplayer Pong game |
-| [**minishell**](https://github.com/Mecha-Coder/42-minishell)         | Create command-line interface (CLI) or shell |
-| [**philosopher**](https://github.com/Mecha-Coder/42-philosopher)| Manage thread and process concurrency |
-| [**pipex**](https://github.com/Mecha-Coder/42-pipex)             | Piping and executing shell commands (used in minishell) |
-| [**push_swap**](https://github.com/Mecha-Coder/42-push-swap)         | Design an efficient number-sorting algorithm with two stacks |
-| [**inception**](https://github.com/Mecha-Coder/42-inception)           | Use Docker and Docker Compose to run a web service |
-| [**get_next_line**](https://github.com/Mecha-Coder/42-get-next-line)     | Create utility function to read text file line by line |
-| [**ft_printf**](https://github.com/Mecha-Coder/42-ft-printf)         | Recreate standard C library printf() function |
+| Project | Description |                           Language / Technologies                       |
+|---------|-------------|-------------------------------------------------------------------------|
+| [**cub3D**](https://github.com/Mecha-Coder/42-cub3D)                   | Pseudo-3D game engine inspired by Wolfenstein 3D             | C |
+| [**so_long**](https://github.com/Mecha-Coder/42-so-long)               | Simple 2D game                                               | C |
+| [**webserv**](https://github.com/Mecha-Coder/42-webserv)               | Single-thread non-blocking web server inspired by Nginx      | C++  |
+| [**CPP_Modules**](https://github.com/Mecha-Coder/42-cpp-modules)       | Introduction to core features of C++                         | C++  |
+| [**ft-transcendence**](https://github.com/ruisheng95/ft_transcendence) | Full-stack web app that hosts a multiplayer Pong game        | Frontend: Tailwind, Typescript</br>Backend: Fastify, Sqlite |
+| [**minishell**](https://github.com/Mecha-Coder/42-minishell)           | Create command-line interface (CLI) or shell                 | C  |
+| [**philosopher**](https://github.com/Mecha-Coder/42-philosopher)       | Manage thread and process concurrency                        | C  |
+| [**pipex**](https://github.com/Mecha-Coder/42-pipex)                   | Piping and executing shell commands (used in minishell)      | C  |
+| [**push_swap**](https://github.com/Mecha-Coder/42-push-swap)           | Design an efficient number-sorting algorithm with two stacks | C  |
+| [**inception**](https://github.com/Mecha-Coder/42-inception)           | Use Docker and Docker Compose to run a web service           | C  |
+| [**get_next_line**](https://github.com/Mecha-Coder/42-get-next-line)   | Create utility function to read text file line by line       | C  |
+| [**ft_printf**](https://github.com/Mecha-Coder/42-ft-printf)           | Recreate standard C library printf() function                | C  |
 
 
 ### **Exams**
