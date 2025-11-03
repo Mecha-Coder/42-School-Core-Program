@@ -4,6 +4,8 @@ I joined 42 Kuala Lumpur — a coding school that focuses on project-based, peer
 
 [![42 stats](https://badge.mediaplus.ma/kettlebells/jpaul)](https://github.com/oakoudad/badge42)
 <!-- ![Profile](https://github.com/Mecha-Coder/42-School-Core-Program/blob/main/asset/profile.png) -->
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/jpaul)](https://github.com/oakoudad/badge42)
+
 
 42 School Profile   👉 [**Intra Profile**](https://profile.intra.42.fr/users/jpaul)</br>
 Click here to view 👉 [**Academic Transcript**](https://github.com/Mecha-Coder/42-School-Core-Program/blob/main/asset/transcript.pdf)
