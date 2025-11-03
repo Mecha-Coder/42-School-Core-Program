@@ -6,7 +6,7 @@ I joined 42 Kuala Lumpur — a coding school that focuses on project-based, peer
 <!-- ![Profile](https://github.com/Mecha-Coder/42-School-Core-Program/blob/main/asset/profile.png) -->
 
 
-42 School Profile   👉 [**Intra Profile**](https://profile.intra.42.fr/users/jpaul)</br>
+42 School Profile   👉 [**42 Profile Page**](https://profile.intra.42.fr/users/jpaul), [**42 Stats**](https://github.com/Mecha-Coder/42-School-Core-Program/blob/main/asset/profile.png)</br>
 Click here to view 👉 [**Academic Transcript**](https://github.com/Mecha-Coder/42-School-Core-Program/blob/main/asset/transcript.pdf)
 
 
